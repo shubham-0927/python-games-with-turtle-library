@@ -2,6 +2,8 @@
 ## Game list:
 1. snake game
 2. snow ball game<br>
+<br> 
+! remember to execute main.py file first
 ###  snake-game
 
 It is a simple snake game made with python's turtle.
