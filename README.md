@@ -35,4 +35,4 @@ To move left : press left arrow key <br>
 <br>
 feel free to contribute any chenges <br>
 thnk you and enjoy the game😊<br>
-> licence by [MIT]()
+> licence by [MIT](https://github.com/shubham-0927/python-games-with-tutle-library/blob/main/LICENSE)
