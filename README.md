@@ -34,5 +34,5 @@ To move left : press left arrow key <br>
 >- you have 3 life ,hitting with black snows reduces the size of snow ball and -1 life
 <br>
 feel free to contribute any chenges <br>
+> licence by [MIT]<br>
 thnk you and enjoy the game😊<br>
-> licence by [MIT](https://github.com/shubham-0927/python-games-with-tutle-library/blob/main/LICENSE)
